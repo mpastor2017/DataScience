@@ -1,0 +1,3 @@
+Gavin,GavinNewsom_facebook_statuses.csv
+Antonio,AntonioVillaraigosa_facebook_statuses.csv
+John,johnchiangforgovernor2018_facebook_statuses.csv

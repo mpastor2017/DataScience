@@ -1,0 +1,4 @@
+
+Supervised learning walkthrough using scikit-learn. Dataset presents two binary predictions for voter turnout (GetOut) and
+voter preference towards a certain issue (preference). Dataset includes 1800 obervations and their demographics. Models
+used here include, Logistic Regression, Random Forest, XGBoost, Adaptive Boosting, and Support Vector Machines.

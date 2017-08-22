@@ -1,0 +1,4 @@
+Antonio,antonio_twitter.csv,text
+Gavin,gavin_twitter.csv,text
+John,chiang_twitter.csv,text
+Gavin,GavinNewsom_facebook_comments.csv,comment_message
