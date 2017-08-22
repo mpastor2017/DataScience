@@ -7,7 +7,7 @@ import string
 import re
 ## API Call for spanish sentiment
 import indicoio
-indicoio.config.api_key = '84d012ec3864706e819c1194737b5406'
+indicoio.config.api_key = 'input key here'
 
 # Reading in Text file
 with open("./SocialTextFiles/PythonSentiment.txt") as f:

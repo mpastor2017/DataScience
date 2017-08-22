@@ -209,6 +209,3 @@ def scrapeFacebookPageFeedComments(page_id, access_token):
 
 
 #scrapeFacebookPageFeedComments(page_id, access_token)
-
-
-# The CSV can be opened in all major statistical programs. Have fun! :)
